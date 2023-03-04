@@ -1,0 +1,10 @@
+:root{
+    --primeira-cor: #222831;
+    --segunda-cor: #393E46;
+    --terceira-cor: #00ADB5;
+    --quarta-cor: #EEEEEE;
+}
+
+header{
+    background: var(--terceira-cor);
+}
