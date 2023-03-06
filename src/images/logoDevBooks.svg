@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="848" height="178" viewBox="0 0 848 178">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        font-size: 150px;
+        fill: #1d1d1d;
+      }
+
+      .cls-1 {
+        font-family: "Segoe Print";
+      }
+
+      .cls-2 {
+        font-family: "Myriad Pro";
+      }
+
+      .cls-3 {
+        font-family: "Lucida Console";
+      }
+    </style>
+  </defs>
+  <text id="DevBooks" class="cls-1" x="176.384" y="136.384">Dev<tspan class="cls-2">Books</tspan></text>
+  <text id="_" data-name="{}" class="cls-3" x="-0.082" y="134.234">{}</text>
+</svg>

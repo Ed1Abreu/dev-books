@@ -1,10 +1,41 @@
 :root{
     --primeira-cor: #222831;
     --segunda-cor: #393E46;
-    --terceira-cor: #00ADB5;
+    --terceira-cor: #2a5bfd;
     --quarta-cor: #EEEEEE;
 }
 
 header{
     background: var(--terceira-cor);
+    padding: 20px;
+    display: block;
+}
+
+#logo{
+    width: 170px;  
+}
+
+#pesquisa{
+    text-align: center;
+    padding: 4px;
+    width: 20%;
+    border: none;
+    border-radius: 5px;
+    margin-left: 30%;
+}
+
+#div-pesquisa, #div-logo{
+    display: inline;
+}
+
+#div-calcula-cep{
+    display: inline-block;
+    margin-left: 25%;
+}
+#link-CEP{
+    color: #FFFFFF;
+}
+#link-CEP:hover{
+    cursor: pointer;
+    text-decoration: underline;
 }
