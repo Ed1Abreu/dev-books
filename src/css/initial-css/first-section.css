@@ -1,0 +1,12 @@
+#carrossel{
+    height: 270px; 
+    width: 1400px;
+    margin: 0 auto;
+}
+
+.imagem-carrossel{
+    height: 270px; 
+    width: 1400px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}

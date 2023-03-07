@@ -1,0 +1,21 @@
+#livros{
+    margin-top: 50px;
+}
+#tabela{
+  
+}
+.linhas{
+
+}
+.colunas{
+    max-width: 250px;
+    max-height: 200px;
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 20px;
+}
+
+.imagem-livros{
+    width: 200px;
+}
+
