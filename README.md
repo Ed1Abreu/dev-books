@@ -12,8 +12,6 @@
 
 <p align='center'>Este projeto consiste na criação da tela de um livraria virtual, onde terá apenas livros voltados para a área de tecnologia.</p>
 
-...
-
 <h1></h1>
 
 ### 🛠 Tecnologias
