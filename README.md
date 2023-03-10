@@ -23,7 +23,7 @@ As seguintes ferramentas serão usadas na construção do projeto:
 - [Bootstrap](https://getbootstrap.com/)
 - [JSON](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Objects/JSON)
 - [Node.js](https://nodejs.org/en/)
-- [GIT](https://git-scm.com/)
+- [Git](https://git-scm.com/)
 
 
 
