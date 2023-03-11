@@ -9,10 +9,11 @@
         <link rel="stylesheet" href="src/css/initial-css/header.css">
         <link rel="stylesheet" href="src/css/initial-css/first-section.css">
         <link rel="stylesheet" href="src/css/initial-css/second-section.css">
+        <link rel="stylesheet" href="src/css/initial-css/popup.css">
         <title>Dev Books</title>
     </head>
     <body>
-        <header>
+        <header> 
             <div id="div-logo">
                 <img id="logo" src="src/images/logos/logoDevBooks.svg" alt="Logo DevBooks">
             </div>
@@ -51,7 +52,19 @@
                 </button>
             </div>
         </section>
-
+        <div class="popup-wrapper">
+            <div class="popup">
+                <div class="popup-close">x</div>
+                <div class="popup-content">
+                    <h2>Realizar consulta do valor do frete</h2>
+                    <p>Os melhores preços para sua região.</p>
+                    <form>
+                        <input type="text">
+                        <input id="submit-form" type="submit" value="Confirmar">
+                    </form>
+                </div>
+            </div>
+        </div>
         <section id="livros">
             <table id="tabela">
                 <h3 id="categoria-mais-vendidos">Mais vendidos</h3>
@@ -59,44 +72,44 @@
                     <td class="colunas">
                         <img class="imagem-livros" src="src/images/foto-livros/foto-codigo-limpo.webp" alt="imagem da capa do livro: Código limpo: Habilidades práticas do Agile Software">
                         <h6 class="titulo-livros">Código limpo: Habilidades práticas do Agile Software</h6>
-                        <p class="preco-livros">R$ 88,84</p>
+                        <h6 class="preco-livros">R$88,84</h6>
                         <button class="btn-comprar"> <i><img src="src/images/icons/cart-plus-fill.svg"></i> Adicionar ao carrinho</button>
                     </td>
                     <td class="colunas">
                         <img class="imagem-livros" src="src/images/foto-livros/foto-algoritimos-e-logica-de-programacao.webp" alt="imagem da capa do livro: Código limpo: Habilidades práticas do Agile Software">
                         <h6 class="titulo-livros">Algoritmos e Lógica Da Programação</h6>
-                        <p class="preco-livros">R$ 52,99</p>
+                        <h6 class="preco-livros">R$52,99</h6>
                         <button class="btn-comprar"> <i><img src="src/images/icons/cart-plus-fill.svg"></i> Adicionar ao carrinho</button>
                     </td>
                     <td class="colunas">
                         <img class="imagem-livros" src="src/images/foto-livros/foto-arquitetura-limpa.webp" alt="imagem da capa do livro: Código limpo: Habilidades práticas do Agile Software">
                         <h6 class="titulo-livros">Arquitetura limpa: O guia do artesão para estrutura e design</h6>
-                        <p class="preco-livros">R$ 62,20</p>
+                        <h6 class="preco-livros">R$62,20</h6>
                         <button class="btn-comprar"> <i><img src="src/images/icons/cart-plus-fill.svg"></i> Adicionar ao carrinho</button>
                     </td>
                     <td class="colunas">
                         <img class="imagem-livros" src="src/images/foto-livros/foto-o-codificador-limpo.webp" alt="imagem da capa do livro: Código limpo: Habilidades práticas do Agile Software">
                         <h6 class="titulo-livros">O codificador limpo: Um código de conduta para programadores profissionais</h6>
-                        <p class="preco-livros">R$ 89,97</p>
+                        <h6 class="preco-livros">R$89,97</h6>
                         <button class="btn-comprar"> <i><img src="src/images/icons/cart-plus-fill.svg"></i> Adicionar ao carrinho</button>
                     </td>
                     <td class="colunas">
                         <img class="imagem-livros" src="src/images/foto-livros/foto-o-programador-pragmatico.webp" alt="imagem da capa do livro: Código limpo: Habilidades práticas do Agile Software">
                         <h6 class="titulo-livros">O Programador Pragmático: De Aprendiz a Mestre</h6>
-                        <p class="preco-livros">R$ 141,60</p>
+                        <h6 class="preco-livros">R$141,60</h6>
                         <button class="btn-comprar"> <i><img src="src/images/icons/cart-plus-fill.svg"></i> Adicionar ao carrinho</button>
                     </td>
 
                     <td class="colunas">
                         <img class="imagem-livros" src="src/images/foto-livros/foto-algoritmos-teoria-e-pratica.webp" alt="imagem da capa do livro: Código limpo: Habilidades práticas do Agile Software">
                         <h6 class="titulo-livros">Algoritmos: Teoria e Prática</h6>
-                        <p class="preco-livros">R$ 412,62</p>
+                        <h6 class="preco-livros">R$412,62</h6>
                         <button class="btn-comprar"> <i><img src="src/images/icons/cart-plus-fill.svg"></i> Adicionar ao carrinho</button>
                     </td>
                     <td class="colunas">
                         <img class="imagem-livros" src="src/images/foto-livros/foto-.net-framework.webp" alt="imagem da capa do livro: Código limpo: Habilidades práticas do Agile Software">
                         <h6 class="titulo-livros">Programação Aplicada com Microsoft .Net Framework</h6>
-                        <p class="preco-livros">R$ 458,00</p>
+                        <h6 class="preco-livros">R$458,00</h6>
                         <button class="btn-comprar"> <i><img src="src/images/icons/cart-plus-fill.svg"></i> Adicionar ao carrinho</button>
                     </td>
                 </tr>
@@ -106,10 +119,10 @@
 
 
 
-
         <footer>
         </footer>
 
+        <script src="app/js/popup.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js" integrity="sha384-mQ93GR66B00ZXjt0YO5KlohRA5SY2XofN4zfuZxLkoj1gXtW8ANNCe9d5Y3eG5eD" crossorigin="anonymous"></script>
     </body>
