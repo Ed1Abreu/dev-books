@@ -1,0 +1,86 @@
+[
+    {
+        "titulo": "Código limpo: Habilidades práticas do Agile Software",
+        "preco": 88.84,
+        "imagem": "",
+        "alt": "Capa do livro: Código limpo: Habilidades práticas do Agile Software",
+        "categoria": "algoritmos e estrutura"
+    },
+    {
+        "titulo": "Arquitetura limpa: O guia do artesão para estrutura e design",
+        "preco": 62.20,
+        "imagem": "",
+        "alt": "Capa do livro: Arquitetura limpa: O guia do artesão para estrutura e design",
+        "categoria": "algoritmos e estrutura"
+    },
+    {
+        "titulo": "O codificador limpo: Um código de conduta para programadores profissionais",
+        "preco": 44.91,
+        "imagem": "",
+        "alt": "Capa do livro: O codificador limpo: Um código de conduta para programadores profissionais",
+        "categoria": "algoritmos e estrutura"
+    },
+    {
+        "titulo": "Guia Front-End: O caminho das pedras para ser um dev Front-End",
+        "preco": 89.97,
+        "imagem": "",
+        "alt": "Capa do livro: Guia Front-End: O caminho das pedras para ser um dev Front-End",
+        "categoria": "algoritmos e estrutura"
+    },
+    {
+        "titulo": "Guia Front-End: O caminho das pedras para ser um dev Front-End",
+        "preco": 44.91,
+        "imagem": "",
+        "alt": "Capa do livro: Guia Front-End: O caminho das pedras para ser um dev Front-End",
+        "categoria": "algoritmos e estrutura"
+    },
+    {
+        "titulo": "Guia Front-End: O caminho das pedras para ser um dev Front-End",
+        "preco": 44.91,
+        "imagem": "",
+        "alt": "Capa do livro: Guia Front-End: O caminho das pedras para ser um dev Front-End",
+        "categoria": "algoritmos e estrutura"
+    },
+    
+    
+
+
+
+    
+    
+    {
+        "titulo": "Guia Front-End: O caminho das pedras para ser um dev Front-End",
+        "preco": 44.91,
+        "imagem": "",
+        "alt": "Capa do livro: Guia Front-End: O caminho das pedras para ser um dev Front-End",
+        "categoria": "front-end"
+    },
+    {
+        "titulo": "Guia prático de TypeScript: Melhore suas aplicações JavaScript",
+        "preco": 44.91,
+        "imagem": "",
+        "alt": "Capa do livro:",
+        "categoria": "front-end"
+    },
+    {
+        "titulo": "Código limpo: Habilidades práticas do Agile Software",
+        "preco": 88.84,
+        "imagem": "https://caelum-online-public.s3.amazonaws.com/2628-js/Vue.js.png",
+        "alt": "Capa do livro de Front-end com Vue.js",
+        "categoria": "front-end"
+    },
+    {
+        "titulo": "Código limpo: Habilidades práticas do Agile Software",
+        "preco": 88.84,
+        "imagem": "https://caelum-online-public.s3.amazonaws.com/2628-js/Vue.js.png",
+        "alt": "Capa do livro de Front-end com Vue.js",
+        "categoria": "front-end"
+    },
+    {
+        "titulo": "Código limpo: Habilidades práticas do Agile Software",
+        "preco": 88.84,
+        "imagem": "https://caelum-online-public.s3.amazonaws.com/2628-js/Vue.js.png",
+        "alt": "Capa do livro de Front-end com Vue.js",
+        "categoria": "front-end"
+    }
+]

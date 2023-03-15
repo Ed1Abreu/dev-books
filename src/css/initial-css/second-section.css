@@ -9,20 +9,16 @@
     margin-top: 50px;
     
 }
-#tabela{
+.tabelas{
   width: 100%;
   border-collapse: separate; 
   border-spacing: 15px;
   
   
 }
-#categoria-mais-vendidos{
+.categoria{
     text-align: center;
 }
-
-.linhas{
-   
-} 
 
 .colunas{
     max-width: 200px;
