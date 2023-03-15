@@ -50,6 +50,11 @@
  
 }
 
+#cep{
+    text-align: center;
+    border: 0.25px solid #000000;
+}
+
 #submit-form{
     margin-top: 5%;
     width: 100%;

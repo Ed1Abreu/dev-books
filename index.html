@@ -60,9 +60,15 @@
                 <div class="popup-content">
                     <h2>Realizar consulta do valor do frete</h2>
                     <p>Os melhores preços para sua região.</p>
-                    <form>
-                        <h5 id="endereco">Av. Alcindo Cacela, Umarizal</h5>
-                        <input id="cep" name="cep" type="text">
+                    <form id="form-cep">
+                        <h5 id="endereco">
+                            <span id="logradouro"></span>
+                            <span id="bairro"></span> 
+                            <span id="cidade"></span>
+                            <span id="estado"></span>
+                        </h5>
+                    
+                        <input id="cep" name="cep" type="text" class="form-control" onkeypress="$(this).mask('00000-000')">
                         <input id="submit-form" type="submit" value="Confirmar">
                     </form>
                 </div>
@@ -277,6 +283,8 @@
         <script src="node_modules/jquery/dist/jquery.js"></script>
         <script src="node_modules/popper.js/dist/popper.js"></script>
         <script src="node_modules/bootstrap/dist/js/bootstrap.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.15/jquery.mask.min.js"></script>
         <script src="app/js/popup.js"></script>
+        <script src="app/js/calculoFrete.js"></script>
     </body>
 </html>
