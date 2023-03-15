@@ -21,6 +21,8 @@ As seguintes ferramentas serão usadas na construção do projeto:
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) & [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Bootstrap](https://getbootstrap.com/)
+- [API ViaCEP](https://viacep.com.br/)
+- [JQuery](https://jquery.com/)
 - [JSON](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Objects/JSON)
 - [Node.js](https://nodejs.org/en/)
 - [Git](https://git-scm.com/)
