@@ -1,0 +1,29 @@
+footer{
+    background: #252525;
+    color: #FFFFFF;
+    margin-top: 30px;
+    text-align: center;
+    padding: 35px;
+}
+
+.nav-footer{
+    list-style: none;
+    display: flex;
+    margin: 0 auto;
+}
+
+.nav-item{
+    margin: 0 auto;
+}
+.nav-item:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#texto-footer{
+
+}
+
+#texto-footer a{
+    color: #FFFFFF;
+}

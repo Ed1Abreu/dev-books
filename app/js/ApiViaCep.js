@@ -1,7 +1,7 @@
 const botaoForm = document.querySelector('#submit-form');
 
-botaoForm.addEventListener('click', (event)=>{
-    event.preventDefault();
+    botaoForm.addEventListener('click', (event)=>{
+        event.preventDefault();
 });
 
 

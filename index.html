@@ -10,6 +10,7 @@
         <link rel="stylesheet" href="src/css/initial-css/first-section.css">
         <link rel="stylesheet" href="src/css/initial-css/second-section.css">
         <link rel="stylesheet" href="src/css/initial-css/popup.css">
+        <link rel="stylesheet" href="src/css/initial-css/footer.css">
         <title>Dev Books</title>
     </head>
     <body>
@@ -53,7 +54,7 @@
             </div>
         </section>
         
-
+        
         <div class="popup-wrapper">
             <div class="popup">
                 <div class="popup-close">X</div>
@@ -67,7 +68,7 @@
                             <span id="cidade"></span>
                             <span id="estado"></span>
                         </h5>
-                    
+                        <h3 id="valor-frete"></h3>
                         <input id="cep" name="cep" type="text" class="form-control" onkeypress="$(this).mask('00000-000')">
                         <input id="submit-form" type="submit" value="Confirmar">
                     </form>
@@ -273,11 +274,24 @@
                 </tr>
             </table>
         </section>
-
-
-
-
+        
         <footer>
+            <nav class="nav-footer">
+                <li class="nav-item">Trabalhe conosco</li>
+                <li class="nav-item">Termos e condições</li>
+                <li class="nav-item">Como cuidamos da sua privacidade</li>
+                <li class="nav-item">Acessibilidade</li>
+                <li class="nav-item">Contato</li>
+                <li class="nav-item">Informações sobre seguros</li>
+                
+            </nav>
+            <hr>
+            <h6 id="texto-footer">
+                DevBooks!® é uma marca registrada de <a href="https://github.com/Ed1Abreu">Ed1Abreu</a> | CNPJ: 12.345.678/0001-10 | 
+                Todos os direitos reservados. Os preços anunciados neste site ou via e-mail promocional podem ser alterados sem prévio aviso. 
+                A DevBooks! não é responsável por erros descritivos. As fotos contidas nesta página são meramente ilustrativas do produto e 
+                podem variar de acordo com o fornecedor e/ou lote do fabricante. 
+            </h6>
         </footer>
 
         <script src="node_modules/jquery/dist/jquery.js"></script>
@@ -285,6 +299,6 @@
         <script src="node_modules/bootstrap/dist/js/bootstrap.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.15/jquery.mask.min.js"></script>
         <script src="app/js/popup.js"></script>
-        <script src="app/js/calculoFrete.js"></script>
+        <script src="app/js/APIViaCep.js"></script>
     </body>
 </html>
