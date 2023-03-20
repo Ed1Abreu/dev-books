@@ -21,19 +21,22 @@
 }
 
 .colunas{
-    max-width: 200px;
+    max-width: auto;
     max-height: 170px;
     border: 1px solid #000000;
     border-radius: 5px;
     padding: 20px;
+    text-align: center;
+    align-items: center;
 }
 
 .imagem-livros{
-    width: 200px;
+   width: 200px;
+   max-height: 260px;
 }
 
 .titulo-livros{
-    font-size: 17px;
+    font-size: 18px;
     overflow: hidden;
     text-overflow: ellipsis;
     display: -webkit-box;

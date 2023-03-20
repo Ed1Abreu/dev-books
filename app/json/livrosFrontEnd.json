@@ -1,0 +1,51 @@
+[
+    {
+        "titulo": "Guia Front-End: O caminho das pedras para ser um dev Front-End",
+        "preco": 44.91,
+        "imagem": "",
+        "alt": "Capa do livro: ",
+        "categoria": "front-end"
+    },
+    {
+        "titulo": "Guia prático de TypeScript: Melhore suas aplicações JavaScript",
+        "preco": 44.91,
+        "imagem": "",
+        "alt": "Capa do livro:",
+        "categoria": "front-end"
+    },
+    {
+        "titulo": "",
+        "preco": 88.84,
+        "imagem": "",
+        "alt": "Capa do livro:",
+        "categoria": "front-end"
+    },
+    {
+        "titulo": "",
+        "preco": 88.84,
+        "imagem": "",
+        "alt": "Capa do livro:",
+        "categoria": "front-end"
+    },
+    {
+        "titulo": "",
+        "preco": 88.84,
+        "imagem": "",
+        "alt": "Capa do livro:",
+        "categoria": "front-end"
+    },
+    {
+        "titulo": "",
+        "preco": 88.84,
+        "imagem": "",
+        "alt": "Capa do livro:",
+        "categoria": "front-end"
+    },
+    {
+        "titulo": "",
+        "preco": 88.84,
+        "imagem": "",
+        "alt": "Capa do livro:",
+        "categoria": "front-end"
+    }
+]
