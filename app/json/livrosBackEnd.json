@@ -1,0 +1,51 @@
+[
+    {
+        "titulo": "SQL - Guia Prático: um Guia Para o uso de SQL",
+        "preco": 68.66,
+        "imagem": "",
+        "alt": "Capa do livro: SQL - Guia Prático: um Guia Para o uso de SQL",
+        "categoria": "back-end"
+    },
+    {
+        "titulo": "Programação web com Node e Express: Beneficiando-se da Stack JavaScript",
+        "preco": 79.99,
+        "imagem": "",
+        "alt": "Capa do livro: Programação web com Node e Express: Beneficiando-se da Stack JavaScript",
+        "categoria": "back-end"
+    },
+    {
+        "titulo": "Desenvolvimento Web com PHP e MySQL",
+        "preco": 85.23,
+        "imagem": "",
+        "alt": "Capa do livro: Desenvolvimento Web com PHP e MySQL",
+        "categoria": "back-end"
+    },
+    {
+        "titulo": "Java para Iniciantes: Crie, Compile e Execute Programas Java Rapidamente",
+        "preco": 122.50,
+        "imagem": "",
+        "alt": "Capa do livro: Java para Iniciantes: Crie, Compile e Execute Programas Java Rapidamente",
+        "categoria": "back-end"
+    },
+    {
+        "titulo": "Banco de Dados Projetos e Implementação",
+        "preco": 105.40,
+        "imagem": "",
+        "alt": "Capa do livro: Banco de Dados Projetos e Implementação",
+        "categoria": "back-end"
+    },
+    {
+        "titulo": "Python e Django: desenvolvimento web moderno e ágil",
+        "preco": 84.78,
+        "imagem": "",
+        "alt": "Capa do livro: Desenvolvimento de aplicações web com Angular",
+        "categoria": "back-end"
+    },
+    {
+        "titulo": "Ruby Aprenda a Programar na Linguagem Mais Divertida",
+        "preco": 79.90,
+        "imagem": "",
+        "alt": "Capa do livro: Ruby Aprenda a Programar na Linguagem Mais Divertida",
+        "categoria": "back-end"
+    }
+]

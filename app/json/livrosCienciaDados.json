@@ -1,0 +1,51 @@
+[
+    {
+        "titulo": "Introdução à ciência de dados",
+        "preco": 68.97,
+        "imagem": "",
+        "alt": "Capa do livro: Introdução à ciência de dados",
+        "categoria": "back-end"
+    },
+    {
+        "titulo": "Data Science Do Zero: Noções Fundamentais com Python",
+        "preco": 59.90,
+        "imagem": "",
+        "alt": "Capa do livro: Data Science Do Zero: Noções Fundamentais com Python",
+        "categoria": "back-end"
+    },
+    {
+        "titulo": "Estatística prática para cientistas de dados: 50 conceitos essenciais",
+        "preco": 68.45,
+        "imagem": "",
+        "alt": "Capa do livro: Estatística prática para cientistas de dados: 50 conceitos essenciais",
+        "categoria": "back-end"
+    },
+    {
+        "titulo": "Storytelling com dados: Um guia sobre visualização de dados para profissionais de negócios",
+        "preco": 66.99,
+        "imagem": "",
+        "alt": "Capa do livro: Storytelling com dados: Um guia sobre visualização de dados para profissionais de negócios",
+        "categoria": "back-end"
+    },
+    {
+        "titulo": "Python e R Para o Cientista de Dados Moderno: o Melhor de Dois Mundos",
+        "preco": 58.46,
+        "imagem": "",
+        "alt": "Capa do livro: Python e R Para o Cientista de Dados Moderno: o Melhor de Dois Mundos",
+        "categoria": "back-end"
+    },
+    {
+        "titulo": "Utilizando a linguagem R: conceitos, manipulação, visualização, modelagem e elaboração de relatórios",
+        "preco": 79.86,
+        "imagem": "",
+        "alt": "Capa do livro: Utilizando a linguagem R: conceitos, manipulação, visualização, modelagem e elaboração de relatórios",
+        "categoria": "back-end"
+    },
+    {
+        "titulo": "Introdução à Mineração de Dados com Aplicações em R",
+        "preco": 124.03,
+        "imagem": "",
+        "alt": "Capa do livro: Introdução à Mineração de Dados com Aplicações em R",
+        "categoria": "back-end"
+    }
+]

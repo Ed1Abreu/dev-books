@@ -3,49 +3,49 @@
         "titulo": "Guia Front-End: O caminho das pedras para ser um dev Front-End",
         "preco": 44.91,
         "imagem": "",
-        "alt": "Capa do livro: ",
+        "alt": "Capa do livro: Guia Front-End O caminho das pedras para ser um dev Front-End",
         "categoria": "front-end"
     },
     {
         "titulo": "Guia prático de TypeScript: Melhore suas aplicações JavaScript",
+        "preco": 74.80,
+        "imagem": "",
+        "alt": "Capa do livro: Guia prático de TypeScript: Melhore suas aplicações JavaScript",
+        "categoria": "front-end"
+    },
+    {
+        "titulo": "Javascript e Jquery: desenvolvimento de interfaces web interativas",
+        "preco": 224.98,
+        "imagem": "",
+        "alt": "Capa do livro: Javascript e Jquery: desenvolvimento de interfaces web interativas",
+        "categoria": "front-end"
+    },
+    {
+        "titulo": "Web Design Responsivo: Páginas adaptáveis para todos os dispositivos",
+        "preco": 49.90,
+        "imagem": "",
+        "alt": "Capa do livro: Web Design Responsivo: Páginas adaptáveis para todos os dispositivos",
+        "categoria": "front-end"
+    },
+    {
+        "titulo": "Front-end com Vue.js: da teoria à prática sem complicações",
         "preco": 44.91,
         "imagem": "",
-        "alt": "Capa do livro:",
+        "alt": "Capa do livro: Front-end com Vue.js: da teoria à prática sem complicações",
         "categoria": "front-end"
     },
     {
-        "titulo": "",
-        "preco": 88.84,
+        "titulo": "Desenvolvimento de aplicações web com Angular",
+        "preco": 45.60,
         "imagem": "",
-        "alt": "Capa do livro:",
+        "alt": "Capa do livro: Desenvolvimento de aplicações web com Angular",
         "categoria": "front-end"
     },
     {
-        "titulo": "",
-        "preco": 88.84,
+        "titulo": "Primeiros Passos com React: Construindo Aplicações web",
+        "preco": 53.90,
         "imagem": "",
-        "alt": "Capa do livro:",
-        "categoria": "front-end"
-    },
-    {
-        "titulo": "",
-        "preco": 88.84,
-        "imagem": "",
-        "alt": "Capa do livro:",
-        "categoria": "front-end"
-    },
-    {
-        "titulo": "",
-        "preco": 88.84,
-        "imagem": "",
-        "alt": "Capa do livro:",
-        "categoria": "front-end"
-    },
-    {
-        "titulo": "",
-        "preco": 88.84,
-        "imagem": "",
-        "alt": "Capa do livro:",
+        "alt": "Capa do livro: Primeiros Passos com React: Construindo Aplicações web",
         "categoria": "front-end"
     }
 ]
