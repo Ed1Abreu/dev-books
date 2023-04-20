@@ -1,0 +1,41 @@
+@media screen and (max-width: 762px){
+   
+
+
+    :root{
+        --primeira-cor: #222831;
+        --segunda-cor: #393E46;
+        --terceira-cor: #2a5bfd;
+        --quarta-cor: #EEEEEE;
+    }
+    
+   
+  
+    #logo{
+       
+    }
+    
+    #pesquisa{
+        max-width: 768px;
+        width: 100%;
+        
+    }
+    
+    #div-pesquisa, #div-logo{
+      
+    }
+    
+    #div-calcula-cep{
+        
+    }
+    #link-CEP{
+        
+    }
+    #link-CEP:hover{
+       
+    }
+    
+
+
+
+} 
